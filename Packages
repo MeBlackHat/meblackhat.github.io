@@ -1,0 +1,17 @@
+Package: com.mrblackhat.vpnproxymaster++
+Architecture: iphoneos-arm
+Version: 5.1.1-1+debug
+Section: Tweaks
+Maintainer: MrBlackHat
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debfiles/com.mrblackhat.vpnproxymaster++.deb
+Size: 9534
+MD5sum: 07b8b412df9112ab102e24018f9b2603
+SHA1: c5acae0f6de43e69de17b4a4231003ff527ccf50
+SHA256: 6c0cd7869a2cf42789dfd2b9b42f422163771ae938253ad7f11ba91e601f0c41
+SHA512: 4684d1c58a6e8c0050378d57ef20e5010d1b1cf779cf1631c038f03ea741c68c2d6967dba615b1e59007ba92dd1604df9035fd40945adb0b1e4be5112472a477
+Description: VPN Proxy Master Free VIP.
+Name: VPN Proxy Master++
+Author: MrBlackHat
+

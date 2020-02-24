@@ -1,0 +1,11 @@
+Origin: MrBlackHat's Repo
+Label: MrBlackHat
+Suite: stable
+Version: 1.0
+Codename: MrBlackHat
+Architecture: iphoneos-arm
+Components: main
+Description: MrBlackHat's Tweaks
+MD5Sum:
+ 8b20ad122b7831ff503a302e307435ac 626 Packages
+ f8e91e999fc0e256f45eab71ff818e26 459 Packages.bz2
