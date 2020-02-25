@@ -1,3 +1,20 @@
+Package: com.mrblackhat.hotspotvpn++
+Architecture: iphoneos-arm
+Version: 1.2.7
+Section: Tweaks
+Maintainer: MrBlackHat
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debfiles/com.mrblackhat.hotspotvpn++.deb
+Size: 2576
+MD5sum: 226c938ed212863ab65a46303d82dc15
+SHA1: 991ce1dd0e907748671b9d3361d9dfd2287b913f
+SHA256: cb68d11bebb8af138d03fa4009e276a3ae1940f85382c4e06f6afc2c547b34d7
+SHA512: 4b6d91f7fec19c2d4725c042584c70ee35e49f7461dd983bb0b7e638ab0f737fcbe4a061a1decd0ec183833779a67d7c4054506c530a772cb845e87f8d584ad2
+Description: Hotspot VPN++ - Go get free Premium features. Click on Buy Premium payment will done automatically. You can remove this tweak after getting Premium features unlocked.
+Name: Hotspot VPN++
+Author: MrBlackHat
+
 Package: com.mrblackhat.vpnproxymaster++
 Architecture: iphoneos-arm
 Version: 5.1.1-1+debug

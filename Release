@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: MrBlackHat's Tweaks
 MD5Sum:
- 9b4520fec8d1cbc9fd6a72145f1d27ea 1259 Packages
- 54913de8637d90e64330c665fa5496e3 742 Packages.bz2
+ 672fcb814ec9d46925f0e1158e49679f 2004 Packages
+ 00fa74d2d1baa4664b64959242be9414 1084 Packages.bz2
