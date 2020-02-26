@@ -1,0 +1,9 @@
+{
+	"name": "Karaoke++",
+	"desc_short": "Karaoke - Free VIP",
+	"desc_long": "All VIP features for free of cost. Get it now.",
+	"compatitle": "iOS 13.3",
+	"changelog": "<strong>5.4.0</strong><br>+ Initial Release.<br>",
+	"screenshot": "../screenshots/Karaoke-VIP.jpeg",
+	"open": true,
+}
