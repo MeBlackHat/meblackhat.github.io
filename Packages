@@ -12,6 +12,7 @@ SHA1: 991ce1dd0e907748671b9d3361d9dfd2287b913f
 SHA256: cb68d11bebb8af138d03fa4009e276a3ae1940f85382c4e06f6afc2c547b34d7
 SHA512: 4b6d91f7fec19c2d4725c042584c70ee35e49f7461dd983bb0b7e638ab0f737fcbe4a061a1decd0ec183833779a67d7c4054506c530a772cb845e87f8d584ad2
 Description: Hotspot VPN++ - Go get free Premium features. Click on Buy Premium payment will done automatically. You can remove this tweak after getting Premium features unlocked.
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.hotspotvpn++
 Name: Hotspot VPN++
 Author: MrBlackHat
 
@@ -31,6 +32,7 @@ SHA512: 4684d1c58a6e8c0050378d57ef20e5010d1b1cf779cf1631c038f03ea741c68c2d6967db
 Description: VPN Proxy Master Free VIP.
 Name: VPN Proxy Master++
 Author: MrBlackHat
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.vpnproxymaster++
 
 Package: com.mrblackhat.words2++
 Architecture: iphoneos-arm
@@ -48,4 +50,4 @@ SHA512: 2c91f63fc50b3bb70a5632950b57f623deb9913ce9515b4476a03a5f4bc79019d4a2e297
 Description: Words With Friends 2 - No Banner ads and No in move ads.
 Name: Words 2++
 Author: MrBlackHat
-
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.words2++
