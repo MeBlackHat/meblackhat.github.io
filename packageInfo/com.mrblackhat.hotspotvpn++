@@ -4,6 +4,5 @@
 	"desc_long": "After installing this tweak open VPN app and click on get Premium and select 6 month plan then click on payment.",
 	"compatitle": "iOS 13.3",
 	"changelog": "<strong>1.2.7</strong><br>+ Initial Release.<br>",
-	"screenshot": "",
-	"open": true,
+	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/hospot-vpn-pro.gif'/><br></div>",	"open": true,
 }
