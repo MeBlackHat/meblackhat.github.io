@@ -8,13 +8,10 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.hotspotvpn++.deb
 Size: 2576
 MD5sum: 226c938ed212863ab65a46303d82dc15
-SHA1: 991ce1dd0e907748671b9d3361d9dfd2287b913f
-SHA256: cb68d11bebb8af138d03fa4009e276a3ae1940f85382c4e06f6afc2c547b34d7
-SHA512: 4b6d91f7fec19c2d4725c042584c70ee35e49f7461dd983bb0b7e638ab0f737fcbe4a061a1decd0ec183833779a67d7c4054506c530a772cb845e87f8d584ad2
 Description: Hotspot VPN++ - Go get free Premium features. Click on Buy Premium payment will done automatically. You can remove this tweak after getting Premium features unlocked.
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.hotspotvpn++
 Name: Hotspot VPN++
 Author: MrBlackHat
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.hotspotvpn++
 
 Package: com.mrblackhat.vpnproxymaster++
 Architecture: iphoneos-arm
@@ -26,9 +23,6 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.vpnproxymaster++.deb
 Size: 9534
 MD5sum: 07b8b412df9112ab102e24018f9b2603
-SHA1: c5acae0f6de43e69de17b4a4231003ff527ccf50
-SHA256: 6c0cd7869a2cf42789dfd2b9b42f422163771ae938253ad7f11ba91e601f0c41
-SHA512: 4684d1c58a6e8c0050378d57ef20e5010d1b1cf779cf1631c038f03ea741c68c2d6967dba615b1e59007ba92dd1604df9035fd40945adb0b1e4be5112472a477
 Description: VPN Proxy Master Free VIP.
 Name: VPN Proxy Master++
 Author: MrBlackHat
@@ -44,10 +38,8 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.words2++.deb
 Size: 7760
 MD5sum: 3d7289d1be889cc559458dac7462ce83
-SHA1: 5a87d0145a6b1db0b21aedc0a4cec93945dffabd
-SHA256: 24c875cfaa6c0bce7b2514a3a620648fcc7c596a4ada16d88ed87d686bcc4862
-SHA512: 2c91f63fc50b3bb70a5632950b57f623deb9913ce9515b4476a03a5f4bc79019d4a2e29715fa07567e3dc1cbfdf7a72ca4553fa424ceb78f5511e21bdb4c05fb
 Description: Words With Friends 2 - No Banner ads and No in move ads.
 Name: Words 2++
 Author: MrBlackHat
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.words2++
+
