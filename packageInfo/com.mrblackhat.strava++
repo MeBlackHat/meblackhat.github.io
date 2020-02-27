@@ -1,0 +1,9 @@
+{
+	"name": "Karaoke++",
+	"desc_short": "Strava - Premium Features Unlocked.",
+	"desc_long": "Track your fitness activity with Strava. Record your run, map a cycling route & analyse your training with all the stats – for free! \nDownload this APP from AppStore click<a href="https://apps.apple.com/us/app/strava-run-ride-swim/id426826309">here</a>",
+	"compatitle": "iOS 13.3",
+	"changelog": "<strong>139.0.0</strong><br>+ Initial Release.<br>",
+	"screenshot": "../screenshots/strava-1.jpeg",
+	"open": true,
+}
