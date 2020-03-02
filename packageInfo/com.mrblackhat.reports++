@@ -1,0 +1,9 @@
+{
+	"name": "Reports++",
+	"desc_short": "Reports++ - Gold Features Unlocked.",
+	"desc_long": " Reports+ for Instagram - Track your Instagram followers, find out who unfollowed you on Instagram, who is not following you back, detect blockers, view your fans, rank your best friends and much more ...",
+	"compatitle": "iOS 13.3",
+	"changelog": "<strong>5.8.2</strong><br>+ Initial Release.<br>",
+	"screenshot": "../screenshots/reports+.jpeg",
+	"open": true,
+}
