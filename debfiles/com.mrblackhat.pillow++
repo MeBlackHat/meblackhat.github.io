@@ -1,9 +1,0 @@
-{
-	"name": "Pillow++",
-	"desc_short": "Pillow++ - Premium Features Unlocked.",
-	"desc_long": "  Pillow Automatic Sleep Tracker  - Sleep trouble? Sleep better with Pillow, your smart sleep assistant. Pillow can analyze your sleep cycles automatically using your Apple Watch, or you can use Pillow without an Apple Watch by placing your iPhone or iPad on the mattress near your pillow.",
-	"compatitle": "iOS 13.3",
-	"changelog": "<strong>0.0.1</strong><br>+ Initial Release.<br>",
-	"screenshot": "../screenshots/pillow.jpeg",
-	"open": true,
-}
