@@ -58,6 +58,21 @@ Name: Karaoke++
 Author: MrBlackHat
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.karaoke++
 
+Package: com.mrblackhat.noytno
+Architecture: iphoneos-arm
+Version: 0.7~beta
+Section: Tweaks
+Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debfiles/com.mrblackhat.noytno.deb
+Size: 3308
+MD5sum: 452e1f9c9391aceb613585fd7c2a7d7c
+Description: NoYTNo - Say No to try YTPremium, Install YTMusic and Try YTMusic.
+Name: NoYTNo
+Author: MrBlackHat <meblackhat@protonmail.com>
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.noytno
+
 Package: com.mrblackhat.pillow++
 Architecture: iphoneos-arm
 Version: 0.0.1
