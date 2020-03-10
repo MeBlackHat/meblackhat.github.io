@@ -1,23 +1,8 @@
-Package: com.mrblackhat.alwayslow
-Architecture: iphoneos-arm
-Version: 0.7
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 320
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.alwayslow.deb
-Size: 20150
-MD5sum: 5e6358c2f6ad01273a5bff95b00f87bb
-Description: AlwaysLow - Live your life with Lowpower Mode.
-Name: AlwaysLow
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.alwayslow
-
 Package: com.mrblackhat.bear++
 Architecture: iphoneos-arm
 Version: 1.7.10
 Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Maintainer: MrBlackHat
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.bear++.deb
@@ -25,29 +10,14 @@ Size: 3844
 MD5sum: 2a3ce06631c1c19580ffd03e1c20ec6b
 Description: Bear Private Markdown Notes - Premium Unlocked.
 Name: Bear++
-Author: MrBlackHat <meblackhat@protonmail.com>
+Author: MrBlackHat
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.bear++
-
-Package: com.mrblackhat.hotspotshield++
-Architecture: iphoneos-arm
-Version: 1.3.5
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.hotspotshield++.deb
-Size: 6162
-MD5sum: 0e234421355a6a1093a684d27b5d6f37
-Description: HotspotShield - Premium Feature Unlocked.
-Name: HotspotShield++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.hotspotshield++
 
 Package: com.mrblackhat.hotspotvpn++
 Architecture: iphoneos-arm
 Version: 1.2.7
 Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Maintainer: MrBlackHat
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.hotspotvpn++.deb
@@ -55,29 +25,14 @@ Size: 2576
 MD5sum: 226c938ed212863ab65a46303d82dc15
 Description: Hotspot VPN++ - Go get free Premium features. Click on Buy Premium payment will done automatically. You can remove this tweak after getting Premium features unlocked.
 Name: Hotspot VPN++
-Author: MrBlackHat <meblackhat@protonmail.com>
+Author: MrBlackHat
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.hotspotvpn++
-
-Package: com.mrblackhat.infuse++
-Architecture: iphoneos-arm
-Version: 6.3.1
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.infuse++.deb
-Size: 3198
-MD5sum: 8e41619c9be1acb3f1d2f2d5888bf628
-Description: Infuse - PRO Feature Unlocked.
-Name: Infuse6++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.infuse++
 
 Package: com.mrblackhat.karaoke++
 Architecture: iphoneos-arm
 Version: 5.4.0
 Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Maintainer: MrBlackHat
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.karaoke++.deb
@@ -85,74 +40,14 @@ Size: 4286
 MD5sum: b6eadbce45e52b84dc999c062634ac20
 Description: Karaoke - VIP Feature Unlocked for Free.
 Name: Karaoke++
-Author: MrBlackHat <meblackhat@protonmail.com>
+Author: MrBlackHat
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.karaoke++
-
-Package: com.mrblackhat.noytno
-Architecture: iphoneos-arm
-Version: 0.7~beta
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.noytno.deb
-Size: 3308
-MD5sum: 452e1f9c9391aceb613585fd7c2a7d7c
-Description: NoYTNo - Say No to try YTPremium, Install YTMusic and Try YTMusic.
-Name: NoYTNo
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.noytno
-
-Package: com.mrblackhat.pillow++
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.pillow++.deb
-Size: 2824
-MD5sum: 0cc79a5270211dff0ad8aeddeacf27c4
-Description: Pillow - Premium Features Unlocked.
-Name: Pillow++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.pillow++
-
-Package: com.mrblackhat.reports++
-Architecture: iphoneos-arm
-Version: 5.8.2
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.reports++.deb
-Size: 3422
-MD5sum: e376a7ed1750e84ae78df460be52331d
-Description: An awesome MobileSubstrate tweak!
-Name: Reports++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.reports++
-
-Package: com.mrblackhat.smartcleaner++
-Architecture: iphoneos-arm
-Version: 3.19
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.smartcleaner++.deb
-Size: 3800
-MD5sum: 17da0634dbcc3db7b06b06427aa3877c
-Description: SmartCleaner++ - VIP Access and Ads are Removed
-Name: SmartCleaner++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.smartcleaner++
 
 Package: com.mrblackhat.strava++
 Architecture: iphoneos-arm
 Version: 139.0.0
 Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Maintainer: MrBlackHat
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.strava++.deb
@@ -160,59 +55,14 @@ Size: 3090
 MD5sum: 63118d001ab0d040c2484c001290dc1b
 Description: Strava - Premium Features Unlocked.
 Name: Strava++
-Author: MrBlackHat <meblackhat@protonmail.com>
+Author: MrBlackHat
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.strava++
-
-Package: com.mrblackhat.typorama++
-Architecture: iphoneos-arm
-Version: 2.3.9
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.typorama++.deb
-Size: 3218
-MD5sum: 8f52dba2e14369553914fd19cb4e66bc
-Description: Typorama  - Premium Features Unlocked.
-Name: Typorama++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.typorama++
-
-Package: com.mrblackhat.videorama++
-Architecture: iphoneos-arm
-Version: 2.3.9
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.videorama++.deb
-Size: 3442
-MD5sum: 977cf2ebaa848315c92d2697e6eddde2
-Description: Videorama - Premium Features Unlocked.
-Name: Videorama++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.videorama++
-
-Package: com.mrblackhat.vpnproxy++
-Architecture: iphoneos-arm
-Version: 5.1.1
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.vpnproxy++.deb
-Size: 3260
-MD5sum: f3dead8cdf5a0396461652f8026f4ba7
-Description: VPNProxy - VIP Features Unlocked.
-Name: VPNProxy++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.vpnproxy++
 
 Package: com.mrblackhat.vpnproxymaster++
 Architecture: iphoneos-arm
 Version: 5.1.1-1+debug
 Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Maintainer: MrBlackHat
 Installed-Size: 148
 Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.vpnproxymaster++.deb
@@ -220,14 +70,14 @@ Size: 9534
 MD5sum: 07b8b412df9112ab102e24018f9b2603
 Description: VPN Proxy Master Free VIP.
 Name: VPN Proxy Master++
-Author: MrBlackHat <meblackhat@protonmail.com>
+Author: MrBlackHat
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.vpnproxymaster++
 
 Package: com.mrblackhat.words2++
 Architecture: iphoneos-arm
 Version: 13.90.6-1+debug
 Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Maintainer: MrBlackHat
 Installed-Size: 148
 Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.words2++.deb
@@ -235,20 +85,5 @@ Size: 7760
 MD5sum: 3d7289d1be889cc559458dac7462ce83
 Description: Words With Friends 2 - No Banner ads and No in move ads.
 Name: Words 2++
-Author: MrBlackHat <meblackhat@protonmail.com>
+Author: MrBlackHat
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.words2++
-
-Package: com.mrblackhat.yahoofinace++
-Architecture: iphoneos-arm
-Version: 5.1
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.yahoofinace++.deb
-Size: 4740
-MD5sum: 8aa31908ca79ca1e2f6f966c53ac7381
-Description: YahooFinace - All the Ads are Removed.
-Name: YahooFinace++
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.yahoofinace++
