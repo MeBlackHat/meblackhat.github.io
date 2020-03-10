@@ -2,7 +2,7 @@
 	"name": "NoYTNo",
 	"desc_short": "NoYTNo - Say No to Try YTPremium, Install YTMusic and YTMusic Trial",
 	"desc_long": "",
-	"compatitle": "iOS 13.3",
+	"compatitle": "iOS 12-13.3",
 	"changelog": "<strong>0.7~beta</strong><br>+ Initial Release.<br>",
 	"screenshot": "",
 	"open": true,
