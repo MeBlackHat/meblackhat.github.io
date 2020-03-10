@@ -2,7 +2,7 @@
 	"name": "Bear++",
 	"desc_short": "Bear - Premium Features Unlocked.",
 	"desc_long": "Bear is a focused, flexible notes app used by writers, lawyers, chefs, teachers, engineers, students, parents and more! Bear has quick organisation, editing tools, and export options to help you write quickly and share anywhere and preserve your privacy with encryption.",
-	"compatitle": "iOS 13.3",
+	"compatitle": "iOS 12-13.3",
 	"changelog": "<strong>1.7.10</strong><br>+ Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/bear.jpeg'/><br></div>",
 	"open": true,
