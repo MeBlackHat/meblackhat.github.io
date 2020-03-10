@@ -2,7 +2,7 @@
 	"name": "Karaoke++",
 	"desc_short": "Strava - Premium Features Unlocked.",
 	"desc_long": "Track your fitness activity with Strava. Record your run, map a cycling route & analyse your training with all the stats – for free!",
-	"compatitle": "iOS 13.3",
+	"compatitle": "iOS 12-13.3",
 	"changelog": "<strong>139.0.0</strong><br>+ Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/strava-1.jpeg'/><br></div>",
 	"open": true,
