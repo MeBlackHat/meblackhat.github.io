@@ -1,0 +1,9 @@
+{
+	"name": "SmartCleaner++",
+	"desc_short": "SmartCleaner++ - VIP Access and Ads are Removed ",
+	"desc_long": "Smart Cleaner - Clean Storage :- Easily remove duplicate contacts, screenshots, similar pictures and Live Photos on your iPhone. Clean up your device in just one tap with the Smart Cleaning function.",
+	"compatitle": "iOS 12-13.3",
+	"changelog": "<strong>3.19</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/smartcl.jpeg'/><br></div>",	
+	"open": true,
+}

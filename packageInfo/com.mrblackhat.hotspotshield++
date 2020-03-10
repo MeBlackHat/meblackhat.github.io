@@ -1,0 +1,9 @@
+{
+	"name": "HotspotShield++",
+	"desc_short": "HotspotShield++ - PRO Features Unlocked.",
+	"desc_long": "HotspotShield - Hotspot Shield is the world’s fastest and most secure VPN app. Protect yourself from cyber threats with a simple tap of the screen. Included with your subscription you get premium access to all the top security products with Pango.",
+	"compatitle": "iOS 12-13.3",
+	"changelog": "<strong>5.6.2</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/hshield.jpeg'/><br></div>",	
+	"open": true,
+}

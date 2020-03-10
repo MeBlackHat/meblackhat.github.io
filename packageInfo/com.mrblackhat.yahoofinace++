@@ -1,0 +1,9 @@
+{
+	"name": "YahooFinance++",
+	"desc_short": "YahooFinance++ - All the Ads are Removed.",
+	"desc_long": "Yahoo Finance - Follow the stocks you care about most and get personalized news and alerts. Access real-time stock information and investment updates to stay on top of the market.",
+	"compatitle": "iOS 12-13.3",
+	"changelog": "<strong>6.13.0</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/infuse6.jpeg'/><br></div>",	
+	"open": true,
+}

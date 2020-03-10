@@ -1,0 +1,9 @@
+{
+	"name": "Infuse6++",
+	"desc_short": "Infuse6++ - PRO Features Unlocked.",
+	"desc_long": "Infuse6 - Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, and Apple TV. No need to convert files! Infuse is optimized for iOS 13, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.",
+	"compatitle": "iOS 12-13.3",
+	"changelog": "<strong>6.3.1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/infuse6.jpeg'/><br></div>",	
+	"open": true,
+}

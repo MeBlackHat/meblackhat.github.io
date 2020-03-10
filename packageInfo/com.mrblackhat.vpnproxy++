@@ -1,0 +1,9 @@
+{
+	"name": "VPNProxy++",
+	"desc_short": "VPNProxy++ - PRO Features Unlocked.",
+	"desc_long": "VPN Proxy - Faster Wingy by VPN Mobi, The best & unlimited free VPN clients for iPhone. No registration required, one-tap to connect!",
+	"compatitle": "iOS 12-13.3",
+	"changelog": "<strong>6.3.1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/vpnproxy.jpeg'/><br></div>",	
+	"open": true,
+}
