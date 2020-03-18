@@ -88,6 +88,21 @@ Name: Karaoke++
 Author: MrBlackHat <meblackhat@protonmail.com>
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.karaoke++
 
+Package: com.mrblackhat.lowairplane
+Architecture: iphoneos-arm
+Version: 0.7.1
+Section: Tweaks
+Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debfiles/com.mrblackhat.lowairplane.deb
+Size: 3520
+MD5sum: 9fa57d78b1e10d0793c161e15c3ef68c
+Description: Enable Airplane Mode and LowPower Mode Will Be Enabled Automatically.
+Name: LowAirplane
+Author: MrBlackHat <meblackhat@protonmail.com>
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.lowairplane
+
 Package: com.mrblackhat.noytno
 Architecture: iphoneos-arm
 Version: 0.7~beta
