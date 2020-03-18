@@ -96,8 +96,8 @@ Maintainer: MrBlackHat <meblackhat@protonmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.lowairplane.deb
-Size: 3520
-MD5sum: 9fa57d78b1e10d0793c161e15c3ef68c
+Size: 3544
+MD5sum: 23aa5fd6ff923e3932da2ac80ed0fd54
 Description: Enable Airplane Mode and LowPower Mode Will Be Enabled Automatically.
 Name: LowAirplane
 Author: MrBlackHat <meblackhat@protonmail.com>
