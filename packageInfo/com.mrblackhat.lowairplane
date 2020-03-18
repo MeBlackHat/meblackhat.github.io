@@ -4,6 +4,5 @@
 	"desc_long": "LowAirplane - Enable Airplane Mode and LowPower Mode Will Be Enabled Automatically. No Option in setting.",
 	"compatitle": "iOS 12-12.4.5",
 	"changelog": "<strong>0.7.1</strong><br>+ Initial Release.<br>",
-	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/lowairplane.jpeg'/><br></div>",
 	"open": true
 }
