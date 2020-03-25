@@ -1,4 +1,3 @@
-Package: com.mrblackhat.alwayslow
 Architecture: iphoneos-arm
 Version: 0.7
 Section: Tweaks
@@ -8,6 +7,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.alwayslow.deb
 Size: 20150
 MD5sum: 5e6358c2f6ad01273a5bff95b00f87bb
+SHA1: a675fa4c2cf23f88bd76c2d40a55c2e28f96f154
+SHA256: 55fe662a03c1a2d3ca15e3530b3148738bc06f0a5180074e84a0dbb05925113a
+SHA512: 1b4e967ceece26d3934ff472ecfa7c28f2c8d8a14827f65662eeddbc91d4c00f902a629ec83da7a8a22c38cb2f37520c7e2bd0262d5d9abb5c44a2f34c985350
 Description: AlwaysLow - Live your life with Lowpower Mode.
 Name: AlwaysLow
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -23,10 +25,31 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.bear++.deb
 Size: 3844
 MD5sum: 2a3ce06631c1c19580ffd03e1c20ec6b
+SHA1: bb3f257cf071014cc8e64625b0bfd951b11e0e90
+SHA256: fc36cdb832ec5eac5e5b6303ea18cff5d55d70e9c4633dbb7e9e21253ee78ce3
+SHA512: 775524c65c9d4372da4212ce401a5467edee46b81024a6885ab2eeccf3205b8f19a8fb64a4eba1fe512039de8ade04bbadfff13852f41c0ea0e0ce19377d34d3
 Description: Bear Private Markdown Notes - Premium Unlocked.
 Name: Bear++
 Author: MrBlackHat <meblackhat@protonmail.com>
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.bear++
+
+Package: com.mrblackhat.elevate++
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debfiles/com.mrblackhat.elevate++.deb
+Size: 4988
+MD5sum: c845d381e36a7e413af6af72edfeef05
+SHA1: a5d77684114d869676f18b0175d5b5aacc0b1621
+SHA256: d6247ec8b426b2171bc22bea1f5e69753b54fff7cf25dfce799aa3ae784dcced
+SHA512: e782ddde172426eacfd38682a0373e2960318c40e8253bb3a08dbbb38be9c32d4378a215fb3084bc0a20fafa03439c30d9f4d1dc19c1b6016f734b2f9b23e695
+Description: Elevate Subscription Lifetime Unlocked.
+Name: Elevate++
+Author: MrBlackHat <meblackhat@protonmail.com>
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.elevate++
 
 Package: com.mrblackhat.hotspotshield++
 Architecture: iphoneos-arm
@@ -38,6 +61,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.hotspotshield++.deb
 Size: 6162
 MD5sum: 0e234421355a6a1093a684d27b5d6f37
+SHA1: 8dd2ff30170f2404e8bf61bd83a8b7ed3cc057d7
+SHA256: 106b2e74c3b4ebe093cd22341c448deeb5b23ee13f3305645afcac051e8be150
+SHA512: f30324bf484430155a5a0b683043ecd7fb907e1a651c1f9c5c3286a2f79aa26a29f85b302f8c7104dc733bc08e22255982fbcbefde307a03a7dce75dfb9d66c2
 Description: HotspotShield - Premium Feature Unlocked.
 Name: HotspotShield++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -53,6 +79,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.hotspotvpn++.deb
 Size: 2576
 MD5sum: 226c938ed212863ab65a46303d82dc15
+SHA1: 991ce1dd0e907748671b9d3361d9dfd2287b913f
+SHA256: cb68d11bebb8af138d03fa4009e276a3ae1940f85382c4e06f6afc2c547b34d7
+SHA512: 4b6d91f7fec19c2d4725c042584c70ee35e49f7461dd983bb0b7e638ab0f737fcbe4a061a1decd0ec183833779a67d7c4054506c530a772cb845e87f8d584ad2
 Description: Hotspot VPN++ - Go get free Premium features. Click on Buy Premium payment will done automatically. You can remove this tweak after getting Premium features unlocked.
 Name: Hotspot VPN++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -68,6 +97,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.infuse++.deb
 Size: 3198
 MD5sum: 8e41619c9be1acb3f1d2f2d5888bf628
+SHA1: d3d0c91d1519f8de6b62ce97f9f3ce62eb281344
+SHA256: 9c946fb55d6efc13bb2aab61822a817491dfe285708e22b547f48fd53c9221f9
+SHA512: 9661a9bf890a70b61a318a5d4794fca9657f3e3c10dd7546c715c3065abce2c8e0850ecc3755b82ade10101522991b9620619401c605a06aa9e23bdd80149683
 Description: Infuse - PRO Feature Unlocked.
 Name: Infuse6++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -83,6 +115,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.karaoke++.deb
 Size: 4286
 MD5sum: b6eadbce45e52b84dc999c062634ac20
+SHA1: d0443b0581011a82c2fbf6fe5967dfb72f21633f
+SHA256: f52b27f5c23fdaf489971662bd62c11cb5ca5bfa7bf3fde572bec34a9c58348b
+SHA512: 2ac81bafea3f762406f56b4f9dca38e257cd3d330fb23ba495a77ba9a29e948921a35cce339f89d4e140546cd97349f5a7b575a081aeda294544a8fdd661d31c
 Description: Karaoke - VIP Feature Unlocked for Free.
 Name: Karaoke++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -98,6 +133,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.lowairplane.deb
 Size: 3544
 MD5sum: 23aa5fd6ff923e3932da2ac80ed0fd54
+SHA1: 60cbada537b667788278759ff2e2c0bf333156cf
+SHA256: 9fbfaa971f65ecf40ad6d14a180de5c9658ab5a128aca2b46581d8db8c5e92fa
+SHA512: 2d714c7471ffe80d426da11fc5c5ecbd68e423f454b9ff179138a6b8174bdddb2cfae7b2fdf854c604fe8fd860072ddb9bbb0a777f3e2b059bfc86920a7674a9
 Description: Enable Airplane Mode and LowPower Mode Will Be Enabled Automatically.
 Name: LowAirplane
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -113,6 +151,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.noytno.deb
 Size: 3308
 MD5sum: 452e1f9c9391aceb613585fd7c2a7d7c
+SHA1: eff8d2e22af2a32d29fa267c986c3e37ee1708b0
+SHA256: 9648b340ba47b37befac33d660d062109935397d587c035043d87fb8925a74f9
+SHA512: 32704f92f5cac160a6bc38cb9f1bf09726caf7a98e21d0cc278e3fcf8b8e10af532df769e899699bda94bd6d8040f54d1159e8a39d7521ac050408bca41aae65
 Description: NoYTNo - Say No to try YTPremium, Install YTMusic and Try YTMusic.
 Name: NoYTNo
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -128,6 +169,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.pillow++.deb
 Size: 2824
 MD5sum: 0cc79a5270211dff0ad8aeddeacf27c4
+SHA1: 58621d04fe7de3dadb115e277169764043e8c805
+SHA256: f431b111af7746802c521d17502d0b77770c964a5fc276b6e1248074f7080509
+SHA512: be69e95ce3d9a891fc953b0fdf9da4daa4da129331af543c2c77306064d6fd498f3c699525d97a9bc903bfd29daab0228342f40fdfea3ab0d6b22ffddf7fac57
 Description: Pillow - Premium Features Unlocked.
 Name: Pillow++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -143,6 +187,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.reports++.deb
 Size: 3422
 MD5sum: e376a7ed1750e84ae78df460be52331d
+SHA1: e4d4d4a3fbcc6013f7d5612a001d6ccd6f090ba6
+SHA256: 6f0679b66fdf60eb23431d97487007e7a77506e6ca51a856d44269eb8c973a96
+SHA512: 65fbf0ebfea5da8d265d72b55b2b8f532dc93a3c100ef84a6e454f55e1157da7669a9007f295c4ce0a49e90c08491146cfef887428cbe7f8eeda126cf14a6d0f
 Description: An awesome MobileSubstrate tweak!
 Name: Reports++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -158,6 +205,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.smartcleaner++.deb
 Size: 3800
 MD5sum: 17da0634dbcc3db7b06b06427aa3877c
+SHA1: 5e6c73cdc8b43a6ba4ba3ea2b5293b312ec8263b
+SHA256: 31054e7c05bcf99c3245142384e52dc58b1bc68802cd348084e0b4b2859fcaa4
+SHA512: a8c2399322edbe0c4b7ee8704e496ff40f263da94ace32c84e05ac8996d8f3942bd21a9bd4f67858dea354526e1ec83e64f17c60987077e7930ea9484eee62db
 Description: SmartCleaner++ - VIP Access and Ads are Removed
 Name: SmartCleaner++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -173,6 +223,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.strava++.deb
 Size: 3090
 MD5sum: 63118d001ab0d040c2484c001290dc1b
+SHA1: 0ba06d6c1e01ef40ee5299a63880282cf1a96dbb
+SHA256: 40360fa9ffa348b19adcb0d23566b6e864309118f7e0807f46a2b7bb54eb0375
+SHA512: cd92c5c6669b528a7ad5debaad69cdea06abe6fa1df9855cf75eb5ce8d0920c595b0dd63dad284462e7d0fa6199ae93291dd9f91a87ffbe8cfadafa255d758d9
 Description: Strava - Premium Features Unlocked.
 Name: Strava++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -188,6 +241,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.typorama++.deb
 Size: 3218
 MD5sum: 8f52dba2e14369553914fd19cb4e66bc
+SHA1: bf1dfa9a778ca1f116be71df3636249d581840f1
+SHA256: 0db0e43738b7a69186b550a508a79d10b6bbaba750f8e311963df70b4c246907
+SHA512: 75c5ab4f7825d2faa857b91a83bdb79edcc96080e5ed9067cc858735ebc1efa175b8153080ba88cb4995218c09018586840c249aa1719e5728add58a3ac5c441
 Description: Typorama  - Premium Features Unlocked.
 Name: Typorama++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -203,6 +259,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.videorama++.deb
 Size: 3442
 MD5sum: 977cf2ebaa848315c92d2697e6eddde2
+SHA1: 4c70e314213073b718fd0403cb7d264a79f422f6
+SHA256: d1667923cbc7099851c5866d22372a05e5406601e11d05e247745aab0b16362d
+SHA512: 3cea8da5874278b3bcd9d9a47ef1ffb7722bd996cdf8048b1289aedd9fc9c0898490d2df7bed15112ed2a1e8fcf14bc5b048dccbb05a2c6fd7e85e0d150d1f97
 Description: Videorama - Premium Features Unlocked.
 Name: Videorama++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -218,6 +277,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.vpnproxy++.deb
 Size: 3260
 MD5sum: f3dead8cdf5a0396461652f8026f4ba7
+SHA1: 1ccb4ed5fc5dc751e7bc0894f52174f8fbe263f5
+SHA256: 629ce218be005522009dbe0bf6b485698eb6d632724177e2c35600910c967e2a
+SHA512: 268c93747ee9a2418726cd9521af83f756a44adb73be97ca993a8944301a48bfa4c4a08a55a082c6343ba81eb675c25bed7a6a2b73d37c206b7f1fefe3f8cc4a
 Description: VPNProxy - VIP Features Unlocked.
 Name: VPNProxy++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -233,6 +295,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.vpnproxymaster++.deb
 Size: 9534
 MD5sum: 07b8b412df9112ab102e24018f9b2603
+SHA1: c5acae0f6de43e69de17b4a4231003ff527ccf50
+SHA256: 6c0cd7869a2cf42789dfd2b9b42f422163771ae938253ad7f11ba91e601f0c41
+SHA512: 4684d1c58a6e8c0050378d57ef20e5010d1b1cf779cf1631c038f03ea741c68c2d6967dba615b1e59007ba92dd1604df9035fd40945adb0b1e4be5112472a477
 Description: VPN Proxy Master Free VIP.
 Name: VPN Proxy Master++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -248,6 +313,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.words2++.deb
 Size: 7760
 MD5sum: 3d7289d1be889cc559458dac7462ce83
+SHA1: 5a87d0145a6b1db0b21aedc0a4cec93945dffabd
+SHA256: 24c875cfaa6c0bce7b2514a3a620648fcc7c596a4ada16d88ed87d686bcc4862
+SHA512: 2c91f63fc50b3bb70a5632950b57f623deb9913ce9515b4476a03a5f4bc79019d4a2e29715fa07567e3dc1cbfdf7a72ca4553fa424ceb78f5511e21bdb4c05fb
 Description: Words With Friends 2 - No Banner ads and No in move ads.
 Name: Words 2++
 Author: MrBlackHat <meblackhat@protonmail.com>
@@ -263,6 +331,9 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.mrblackhat.yahoofinace++.deb
 Size: 4740
 MD5sum: 8aa31908ca79ca1e2f6f966c53ac7381
+SHA1: 014baad862649d0e07a6523a31d43aa0a17c7f8c
+SHA256: 295c6d004737428ba1bbdb39ca5129130d81f94ebf3f0d507ad24029636c0f4a
+SHA512: 706e979c1f80924c50a3c732d866cd2d73465ed0c73efcb49ed60b1941ce0e9b225a4b5b7945b556d4e2144666c28adce615c144d259bfa1e236e52ad2565b03
 Description: YahooFinace - All the Ads are Removed.
 Name: YahooFinace++
 Author: MrBlackHat <meblackhat@protonmail.com>
