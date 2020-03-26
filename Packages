@@ -49,7 +49,7 @@ SHA512: d2f710f8e1144a1cc18aac4cdd00eadfbc9d6afe91ace24495233411a56a32b4f169d589
 Description: Elevate Subscription Lifetime Unlocked.
 Name: Elevate++
 Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.elevate
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.elevate++
 
 Package: com.mrblackhat.hotspotshield++
 Architecture: iphoneos-arm
