@@ -1,3 +1,22 @@
+Package: com.mrblackhat.alwayslow
+Architecture: iphoneos-arm
+Version: 0.7.1
+Section: Tweaks
+Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debfiles/com.mrblackhat.alwayslow.deb
+Size: 19192
+MD5sum: f7d993efcd53eed03a5ba320b2080222
+SHA1: da2f598dc6fbf4fcb1d418ee3cc51099c9b590e7
+SHA256: 82199a5bdde8b2dc673141fa9aac1576ad006bf36575e095a9912d274aebf072
+SHA512: 9f86dfd3ad0ffaca1be4b2f3b1f70c37c829071c082aa05c432c1e7b1809c935f8db1d66560e470d7c119d6b926a40a9d32481bbab99b2ec6fe37ff204eb73af
+Description: AlwaysLow - Live your life with Lowpower Mode.
+Name: AlwaysLow
+Author: MrBlackHat <meblackhat@protonmail.com>
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.alwayslow
+
+Package: com.mrblackhat.bear++
 Architecture: iphoneos-arm
 Version: 1.7.10
 Section: Tweaks
@@ -14,6 +33,24 @@ Description: Bear Private Markdown Notes - Premium Unlocked.
 Name: Bear++
 Author: MrBlackHat <meblackhat@protonmail.com>
 Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.bear++
+
+Package: com.mrblackhat.elevate++
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: MrBlackHat <meblackhat@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debfiles/com.mrblackhat.elevate++.deb
+Size: 4992
+MD5sum: 0942a097478e3fde28f4ef7dc3ddbe0f
+SHA1: 90cacc47c4ba8697275a8594127ffdfe4aaa4b92
+SHA256: bf65380624ba53e0a1d5919b57f6dc7d9460f93d26f14f502713296d26961f6b
+SHA512: d2f710f8e1144a1cc18aac4cdd00eadfbc9d6afe91ace24495233411a56a32b4f169d5899611285b301b338a850e4a72208cdbdb0190c38a3f9831a6d5be1249
+Description: Elevate Subscription Lifetime Unlocked.
+Name: Elevate++
+Author: MrBlackHat <meblackhat@protonmail.com>
+Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.elevate++
 
 Package: com.mrblackhat.hotspotshield++
 Architecture: iphoneos-arm
