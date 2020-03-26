@@ -1,22 +1,4 @@
 Architecture: iphoneos-arm
-Version: 0.7
-Section: Tweaks
-Maintainer: MrBlackHat <meblackhat@protonmail.com>
-Installed-Size: 320
-Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.alwayslow.deb
-Size: 20150
-MD5sum: 5e6358c2f6ad01273a5bff95b00f87bb
-SHA1: a675fa4c2cf23f88bd76c2d40a55c2e28f96f154
-SHA256: 55fe662a03c1a2d3ca15e3530b3148738bc06f0a5180074e84a0dbb05925113a
-SHA512: 1b4e967ceece26d3934ff472ecfa7c28f2c8d8a14827f65662eeddbc91d4c00f902a629ec83da7a8a22c38cb2f37520c7e2bd0262d5d9abb5c44a2f34c985350
-Description: AlwaysLow - Live your life with Lowpower Mode.
-Name: AlwaysLow
-Author: MrBlackHat <meblackhat@protonmail.com>
-Depiction: https://meblackhat.github.io/description.html?id=com.mrblackhat.alwayslow
-
-Package: com.mrblackhat.bear++
-Architecture: iphoneos-arm
 Version: 1.7.10
 Section: Tweaks
 Maintainer: MrBlackHat <meblackhat@protonmail.com>
