@@ -1,0 +1,9 @@
+{
+	"name": "AlwaysLow",
+	"desc_short": "AlwaysLow - Live your life with LowPower Mode.",
+	"desc_long": "AlwaysLow - Enable it from setting.",
+	"compatitle": "iOS 12-13",
+	"changelog": "<strong>0.7.1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='../screenshots/alwayslow.jpeg'/><br></div>",	"open": true,
+	"open": true,
+}
