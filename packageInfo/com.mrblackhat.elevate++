@@ -1,0 +1,8 @@
+{
+	"name": "Elevate++",
+	"desc_short": "Bear - Premium Features Unlocked.",
+	"desc_long": "Elevate is a brain training program designed to improve focus, speaking abilities, processing speed, memory, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.",
+	"compatitle": "iOS 12-13",
+	"changelog": "<strong>0.1.0</strong><br>+ Initial Release.<br>",
+	"open": true,
+}

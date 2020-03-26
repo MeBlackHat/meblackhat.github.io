@@ -1,0 +1,8 @@
+{
+	"name": "AlwaysLow",
+	"desc_short": "AlwaysLow - Live your life with LowPowerMode.",
+	"desc_long": "",
+	"compatitle": "iOS 12-13",
+	"changelog": "<strong>0.1.0</strong><br>+ Initial Release.<br>",
+	"open": true,
+}
