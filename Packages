@@ -40,7 +40,7 @@ Section: Tweaks
 Maintainer: MrBlackHat <meblackhat@protonmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debfiles/com.mrblackhat.elevate.deb
+Filename: ./debfiles/com.mrblackhat.elevate++.deb
 Size: 4992
 MD5sum: 0942a097478e3fde28f4ef7dc3ddbe0f
 SHA1: 90cacc47c4ba8697275a8594127ffdfe4aaa4b92
